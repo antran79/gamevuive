@@ -1,0 +1,658 @@
+{
+  "status": "OK",
+  "code": 200,
+  "data": [
+    {
+      "hotlines": "+16463578777",
+      "remoteconfig": {
+        "taixiu": {
+          "event_duatop": true
+        },
+        "analytics": {
+          "isLogEventOpenGameWithParam": false,
+          "isLogEventWeb": false,
+          "isLogEventIOS": false,
+          "isLogEventANDROID": false
+        }
+      },
+      "textRewardKichHoatPhone": "Không khuyến mãi",
+      "facebook_url": "https://www.facebook.com/go88hitclub",
+      "live_chat_url": "https://secure.livechatinc.com/licence/14863323/v2/open_chat.cgi",
+      "app_info": {
+        "app_id": "bc114103",
+        "host_url": "https://play.hit20.club",
+        "download_url": "https://hit20.club"
+      },
+      "facebook_info": {
+        "app_id": "480983122757914",
+        "facebook_login_callback": "https://augurcoin.pro/fb.v1.html"
+      },
+      "comingsoon": "caorua,ktrng_3999,onepay,blackjack,vip,onedevice,dangkyfb,qs_txgo-101,qs_xocdia-102",
+      "urlKeno": "https://api-keno.gamingon.net/web/",
+      "bannergiftcodeurl": "http://bit.ly/2qYBqqR",
+      "disablebannergiftcode": "true",
+      "numbergame": {
+        "api": "https://api-nbg.gamingon.net/web/",
+        "socket": "wss://ws-nbg.gamingon.net/"
+      },
+      "nextVersionInfo": {
+        "packageUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34",
+        "remoteManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/project.manifest",
+        "remoteVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/version.manifest",
+        "version": "2.0.34",
+        "isForceUpdate": "true",
+        "updateType": "zipdownloadscene",
+        "brand": "hitpre",
+        "originalManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/project_original.manifest",
+        "originalVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/version_original.manifest",
+        "firstRemoteManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/first_project.manifest",
+        "firstRemoteVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/first_version.manifest",
+        "fullZipManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/full_zip_project.manifest",
+        "fullZipVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/full_zip_version.manifest",
+        "zipSceneManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/zipScene_project.manifest",
+        "zipSceneVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/zipScene_version.manifest",
+        "AKTVManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/aktv.manifest",
+        "AKTVVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/aktv_version.manifest",
+        "STTTManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/sttt.manifest",
+        "STTTVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/sttt_version.manifest",
+        "BanCaManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/banca.manifest",
+        "BanCaVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/banca_version.manifest",
+        "ThanTaiManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/thantai.manifest",
+        "ThanTaiVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/thantai_version.manifest",
+        "FootBallC1ManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/footballC1.manifest",
+        "FootBallC1VersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/footballC1_version.manifest",
+        "AiCapManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/aicap.manifest",
+        "AiCapVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/aicap_version.manifest",
+        "TheWitcherManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/thewitcher.manifest",
+        "TheWitcherVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/thewitcher_version.manifest",
+        "TuLinhManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/tulinh.manifest",
+        "TuLinhVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/tulinh_version.manifest",
+        "TXBXManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/txbx.manifest",
+        "TXBXVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/txbx_version.manifest",
+        "MaDaoManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/madao.manifest",
+        "MaDaoVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/madao_version.manifest",
+        "TayDuKyManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/tayduky.manifest",
+        "TayDuKyVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/tayduky_version.manifest",
+        "Slot5DragonManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/ngulong.manifest",
+        "Slot5DragonVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/ngulong_version.manifest",
+        "SlotFortuneGongManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/SlotFortuneGong.manifest",
+        "SlotFortuneGongVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/SlotFortuneGong_version.manifest",
+        "FrozenManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/frozen.manifest",
+        "FrozenVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/frozen_version.manifest",
+        "ThanXaManifestUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/thanxa.manifest",
+        "ThanXaVersionUrl": "https://dlhtz.appgosdl.net/preprod/hit/2.0.34/thanxa_version.manifest"
+      },
+      "broadcast": "Tài khoản chỉ bị khoá khi có bằng chứng xác thực, được kiểm duyệt qua nhiều cấp.\nNạp tối thiểu 50K với phương thức Ngân Hàng.\nCác tài khoản bị khoá đều là tài khoản bẩn, đánh vây khách hàng, bào khuyến mãi.\n<color=#f5dd42> hit20.club</c> là địa chỉ chính thức. Quý khách vui lòng truy cập đúng địa chỉ.\nKhông đại lý, không mất phí giao dịch. Phế chơi game chỉ từ 1%\nRút nạp tiền trực tiếp qua Tài khoản ngân hàng và ví Momo sẽ không mất phí.\nQuý khách cần hỗ trợ liên hệ qua <color=#f76f00> Livechat hoặc Hotline</c>\nQuý khách hãy chơi bằng app để tránh lừa đảo và hack tài khoản\nThuật toán ngẫu nhiên bên thứ ba, giám sát bởi bên thứ tư là công ty độc lập tại Singapore.\nCác siêu đại gia vui lòng xuống tiền nhẹ nhàng tránh ảnh hưởng cộng đồng. Xin cám ơn các đại gia.\nLượng nạp/rút nhiều nên đôi khi giao dịch hơi chậm, mong quý khách thông cảm.",
+      "ishtml": "false",
+      "startTabTheCaoViettelVinaMoBi": "\\0",
+      "gameremove": "kts_9982,kts_9996,kts_9967",
+      "textKichHoat": "Kích Hoạt Nhận 5000 VND",
+      "textKichHoatPopup": " (Mỗi SĐT được nhận 5000 VND 1 lần)",
+      "isChatTxIdOk": "true",
+      "activePublicLobbyApp": "true",
+      "urlLode": "https://api-sg.quayso.live",
+      "firebaseWebConfig": {},
+      "activePhoneData": {
+        "phone1": "0",
+        "phone2": "0",
+        "reward1": "5000",
+        "reward2": "25000",
+        "nativeSupportFillSMS": true
+      },
+      "downloadapp": {
+        "enable": false,
+        "ios": true,
+        "android": false,
+        "url": "https://thegioigiaitri.vip/"
+      },
+      "activePhoneNumberData": {
+        "isActiveSms": false,
+        "phone1": "0",
+        "phone2": "0",
+        "reward1": "2000",
+        "reward2": "25000",
+        "nativeSupportFillSMS": true,
+        "isActiveWithOTP": false,
+        "textKichHoat": "Hãy kích hoạt SĐT",
+        "textKichHoatPopup": "",
+        "textRewardKichHoatPhone": "Không khuyễn mãi"
+      },
+      "notifyTaiXiuUrl": "https://api-jp.gwjeckfock.com/glms/v1/notify/taixiu?platform_id=g8",
+      "reCaptchaInfo": {
+        "siteK": "6LcRfskaAAAAAPLbAdyH3WCygmXJ4KWietpBc_UA",
+        "actLogin": "g8login"
+      },
+      "configHideSpamChat": {
+        "enable": 1,
+        "timeHide": 600000,
+        "amoutDegit": 9,
+        "templateZL": "zalo,zl,dalo",
+        "regZL": "",
+        "amountNumAndregZL": 5
+      },
+      "notifyTaiXiuMd5Url": "https://api-jp.gwjeckfock.com/glms/v1/notify/taixiu?platform_id=g8&gid=vgmn_101",
+      "listImageXDBanChung": "1,-1,-2",
+      "banVipMinBet": "200000",
+      "versionInfo": {
+        "packageUrl": "https://hitrs.mazdaz.store/hit/1.0.20",
+        "remoteManifestUrl": "https://hitrs.mazdaz.store/hit/1.0.20/project.manifest",
+        "remoteVersionUrl": "https://hitrs.mazdaz.store/hit/1.0.20/version.manifest",
+        "version": "1.0.20",
+        "isForceUpdate": "true",
+        "updateType": "zipdownloadscene",
+        "brand": "hit",
+        "originalManifestUrl": "https://hitrs.mazdaz.store/hit/1.0.20/project_original.manifest",
+        "originalVersionUrl": "https://hitrs.mazdaz.store/hit/1.0.20/version_original.manifest",
+        "firstRemoteManifestUrl": "https://hitrs.mazdaz.store/hit/1.0.20/first_project.manifest",
+        "firstRemoteVersionUrl": "https://hitrs.mazdaz.store/hit/1.0.20/first_version.manifest",
+        "fullZipManifestUrl": "https://hitrs.mazdaz.store/hit/1.0.20/full_zip_project.manifest",
+        "fullZipVersionUrl": "https://hitrs.mazdaz.store/hit/1.0.20/full_zip_version.manifest",
+        "zipSceneManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/zipScene_project.manifest",
+        "zipSceneVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/zipScene_version.manifest",
+        "AKTVManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/aktv.manifest",
+        "AKTVVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/aktv_version.manifest",
+        "STTTManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/sttt.manifest",
+        "STTTVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/sttt_version.manifest",
+        "BanCaManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/banca.manifest",
+        "BanCaVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/banca_version.manifest",
+        "ThanTaiManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/thantai.manifest",
+        "ThanTaiVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/thantai_version.manifest",
+        "FootBallC1ManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/footballC1.manifest",
+        "FootBallC1VersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/footballC1_version.manifest",
+        "AiCapManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/aicap.manifest",
+        "AiCapVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/aicap_version.manifest",
+        "TheWitcherManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/thewitcher.manifest",
+        "TheWitcherVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/thewitcher_version.manifest",
+        "TuLinhManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/tulinh.manifest",
+        "TuLinhVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/tulinh_version.manifest",
+        "TXBXManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/txbx.manifest",
+        "TXBXVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/txbx_version.manifest",
+        "MaDaoManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/madao.manifest",
+        "MaDaoVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/madao_version.manifest",
+        "TayDuKyManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/tayduky.manifest",
+        "TayDuKyVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/tayduky_version.manifest",
+        "Slot5DragonManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/ngulong.manifest",
+        "Slot5DragonVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/ngulong_version.manifest",
+        "SlotFortuneGongManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/SlotFortuneGong.manifest",
+        "SlotFortuneGongVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/SlotFortuneGong_version.manifest",
+        "FrozenManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/frozen.manifest",
+        "FrozenVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/frozen_version.manifest",
+        "ThanXaManifestUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/thanxa.manifest",
+        "ThanXaVersionUrl": "https://dlhtz.appgosdl.net/hit/1.0.20/thanxa_version.manifest"
+      },
+      "isActiveSTheThaoNew": "true",
+      "listMaintenance": "qs_txgo-101,qs_xocdia-102",
+      "botTeleName": "@HitOtpBot",
+      "botTelgramURL": "https://t.me/HitOtpBot",
+      "bannerInfo": {
+        "config": {
+          "defineMoneyOfUserVip": 1000000
+        },
+        "configBanner": [
+          {
+            "namebanner": "support247",
+            "index": 0,
+            "enable": false,
+            "gameid": "support247",
+            "gameidRemote": "sbt_1004",
+            "urlBannerRemote": "/banner/banner_c1final2023.png"
+          },
+          {
+            "namebanner": "support247",
+            "index": 1,
+            "enable": true,
+            "gameid": "support247",
+            "gameidRemote": "none",
+            "urlBannerRemote": "/banner/banner_hit20club.png"
+          },
+          {
+            "namebanner": "telegramotp",
+            "index": 2,
+            "enable": true,
+            "gameid": "otp",
+            "gameidRemote": "otp",
+            "urlBannerRemote": "/banner/telegram-otp.png"
+          }
+        ]
+      },
+      "urlTXLive": "https://api-tx-g8.quayso.tv/api/v1/",
+      "socketTechPlay": "wss://ws-tx-g8.quayso.tv",
+      "urlTXLivestream": "/livestream/taixiulive.html?v=69",
+      "downloadAppStoreTittle": "TẢI BẢN CÀI ĐẶT",
+      "downloadAppStoreMess": "TẢI BẢN APP MỚI ĐỂ CÓ THỂ CHƠI GAME LIVESTREAM",
+      "lodeMsgBetErrorConvert": {
+        "msg": "Đài Miền Nam tạm nghỉ phòng chống Covid-19 từ ngày 09/07. Cảm ơn quý khách!",
+        "msgConvert": "Lô đề Miền Nam tạm ngưng từ 0h ngày 9/7"
+      },
+      "textMaintenance": "Hiện đang bảo trì nâng cấp, xin vui lòng quay lại sau",
+      "listBundleID": "com.gomath.mathrungame,com.gomath.mathrungame.preprod,com.gamego.preprodnew,com.gamegopre.prenew,com.clean.oceanfish,com.clean.oceanfish,com.aircraft.number,com.gamego.preprodnew.3,com.gamego.prenew.4,com.bug.destroy,com.hitsou.uvenir,com.hitb.bugg",
+      "bannerInfoPre": {
+        "config": {
+          "defineMoneyOfUserVip": 1000000
+        },
+        "configBanner": [
+          {
+            "namebanner": "support247",
+            "index": 0,
+            "enable": true,
+            "gameid": "support247",
+            "gameidRemote": "sbt_1004",
+            "urlBannerRemote": "/banner/banner_c1final2023.png",
+            "sbConfig": {
+              "SbOpenMatch": "DeportivoEspanolAtlas",
+              "SbOpenCalendarDate": "2023-06-13T18:30:00Z"
+            }
+          },
+          {
+            "namebanner": "support247",
+            "index": 1,
+            "enable": true,
+            "gameid": "support247",
+            "gameidRemote": "none",
+            "urlBannerRemote": "/banner/banner_hit8club.png"
+          },
+          {
+            "namebanner": "telegramotp",
+            "index": 2,
+            "enable": true,
+            "gameid": "otp",
+            "gameidRemote": "otp",
+            "urlBannerRemote": "/banner/telegram-otp.png"
+          }
+        ]
+      },
+      "broadCastLode": "Chúc quý khách nhanh phát tài\r\nLô Đề HitClub mang đến giàu sang, phú quý\r\nHitClub thương hiệu uy tín, an toàn\r\nCược một ăn một mớ, sợ gì không chơi lớn nào\r\nChúc quý khách đại cát đại lợi",
+      "urlXDLive": "https://api-csn-g8.gameland.vip/api/v1/",
+      "urlXDLivestream": "/livestream/xocdialive.html?v=3",
+      "listLiveStream": "StrViVo,vvstr01,vvstr02",
+      "cuocLodeDisable": {
+        "listCuocLodeDisable": "6",
+        "thongBaoCuocLodeDisable": "Lựa chọn này đang bảo trì, vui lòng quay lại sau"
+      },
+      "isChatTxMd5IdOk": "true",
+      "timeForBettingTXLive": "49",
+      "timeForBettingXDLive": "42",
+      "activeCryptoPay": "false",
+      "allowShowRemindOTP": "true",
+      "activeCryptoPayA": "true",
+      "cryptoSuppport": "https://pm.gogwapiraps.com/usr/updu",
+      "activeCryptoPayPre": "true",
+      "images_url": "https://play.hit8.club",
+      "top_user_url": "https://bodergatez.dsrcgoms.net/gwms/v1/rank.aspx",
+      "bet_history_url": "https://bodergatez.dsrcgoms.net/gwms/v1/lsc.aspx",
+      "jackpot_url": "https://api-jp.gwjeckfock.com/glms/v1/jp?platform_id=g8",
+      "jackpot_history_url": "https://api-jp.gwjeckfock.com/glms/v1/jp/h/g8",
+      "user": {
+        "change_username": "https://bodergatez.dsrcgoms.net/gwms/v1/m/change-username.aspx",
+        "verify_token_url": "https://bodergatez.dsrcgoms.net/gwms/v1/verifytoken.aspx",
+        "login_url": "https://bodergatez.dsrcgoms.net/user/login.aspx",
+        "auth_url": "https://bodergatez.dsrcgoms.net/verify/index.aspx",
+        "auth_changepw_url": "https://bodergatez.dsrcgoms.net/verify/cc_changepass.aspx",
+        "fb_login_url": "https://bodergatez.dsrcgoms.net/user/fblogin.aspx",
+        "logout_url": "https://bodergatez.dsrcgoms.net/user/logout.aspx",
+        "register_url": "https://bodergatez.dsrcgoms.net/user/register.aspx",
+        "update_info_url": "https://bodergatez.dsrcgoms.net/user/update.aspx",
+        "collect_url": "https://bodergatez.dsrcgoms.net/sw/collect",
+        "collect_v4_url": "https://api4.trakipsg.net/sw/collect",
+        "collect_v6_url": "https://api6.trakipsg.net/sw/collect"
+      },
+      "otp": {
+        "register": "https://bodergatez.dsrcgoms.net/gwms/v1/otp/register.aspx",
+        "setting": "https://bodergatez.dsrcgoms.net/gwms/v1/otp/setting.aspx",
+        "get-otp": "https://bodergatez.dsrcgoms.net/gwms/v1/otp/get-code.aspx",
+        "info": "https://bodergatez.dsrcgoms.net/gwms/v1/otp/info.aspx",
+        "unbind": "https://bodergatez.dsrcgoms.net/gwms/v1/otp/tele/unbind.aspx"
+      },
+      "pay": {
+        "payment_url": "https://pmbodergw.dsrcgoms.net/payment",
+        "payment_url2": "https://pmbodergw.dsrcgoms.net/pm",
+        "giftcode_url": "https://bodergatez.dsrcgoms.net/gwms/v1/giftcode.aspx",
+        "history_url": "https://bodergatez.dsrcgoms.net/log/lsgd.aspx",
+        "safe_load": "https://bodergatez.dsrcgoms.net/gwms/v1/safe/load.aspx",
+        "safe_transfer": "https://bodergatez.dsrcgoms.net/gwms/v1/safe/transfer.aspx",
+        "getotp_url": "https://pmbodergw.dsrcgoms.net/otp/getSMSOTP",
+        "verifyDeviceWithdraw": "https://bodergatez.dsrcgoms.net/safe/verifydevicewithdraw.aspx",
+        "hidden_tab": "3",
+        "cryptoSuppport": "https://pmbodergw.dsrcgoms.net/usr/updu",
+        "paySuppport": "https://pmbodergw.dsrcgoms.net/usr/updub",
+        "activeSwitchForChinhChu": "false"
+      },
+      "inbox": {
+        "system": "https://bodergatez.dsrcgoms.net/gwms/v1/inbox/system.aspx",
+        "list": "https://bodergatez.dsrcgoms.net/gwms/v1/inbox.aspx",
+        "read": "https://bodergatez.dsrcgoms.net/inbox/read.aspx",
+        "delete": "https://bodergatez.dsrcgoms.net/inbox/delete.aspx",
+        "count": "https://bodergatez.dsrcgoms.net/inbox/count.aspx"
+      },
+      "quest": {
+        "list": "https://bodergatez.dsrcgoms.net/quest.aspx",
+        "reward": "https://bodergatez.dsrcgoms.net/quest/reward.aspx",
+        "count": "https://bodergatez.dsrcgoms.net/quest/install.aspx"
+      },
+      "dua_top_tx": "https://bodergatez.dsrcgoms.net/events.aspx",
+      "ls_dua_top_tx": "https://bodergatez.dsrcgoms.net/events/history.aspx",
+      "ranking": {
+        "enable": false,
+        "time": "26 ~ 30/08/2019"
+      },
+      "server_vg": {
+        "mini_game": {
+          "host": "wss://mynygwais.hytsocesk.com:443",
+          "port": 443,
+          "uri": "wss://mynygwais.hytsocesk.com:443/websocket"
+        },
+        "card_game": {
+          "host": "wss://carkgwaiz.hytsocesk.com:443",
+          "port": 80,
+          "uri": "wss://carkgwaiz.hytsocesk.com:443/websocket"
+        },
+        "number_game": {
+          "host": "https://nbg.gamingon.net",
+          "port": 80,
+          "operator_id": 1000,
+          "url": "https://nbg.gamingon.net?operator_id=1000"
+        },
+        "keno": {
+          "host": "https://keno.gamingon.net",
+          "port": 80,
+          "operator_id": 2000,
+          "url": "https://keno.gamingon.net?operator_id=2000"
+        },
+        "lode": {
+          "host": "https://web-sg.quayso.live",
+          "port": 80,
+          "url": "https://web-sg.quayso.live/?style=yellow"
+        },
+        "sportbook_sb": {
+          "host": "https://sport.sbtyo.com",
+          "port": 80,
+          "url": "https://sport.sbtyo.com",
+          "url_mobile": "https://prod322.bti.bet/vi/sports/?operatorToken=",
+          "url_desktop": "https://prod322.bti.bet/vi/asian-view/?operatorToken="
+        },
+        "sportbook_at": {
+          "url": "https://bodergatez.dsrcgoms.net/onework/load.aspx",
+          "get_url": "https://bodergatez.dsrcgoms.net/onework/url.aspx",
+          "transfer": "https://bodergatez.dsrcgoms.net/onework/transfer.aspx",
+          "history_url": "https://bodergatez.dsrcgoms.net/gwms/v1/lsco.aspx"
+        },
+        "like_casino": {
+          "operator": 3004378,
+          "tables": [
+            {
+              "id": 1,
+              "schedule": "24/7",
+              "name": "Live Multi View Roulette",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=roulette&tableid=1&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Roulette_1.png"
+            },
+            {
+              "id": 43,
+              "schedule": "24/7",
+              "name": "Sun Macau VIP Roulette",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=roulette&tableid=43&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Roulette_3.png"
+            },
+            {
+              "id": 178,
+              "schedule": "24/7",
+              "name": "VIP Turkish Roulette",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=roulette&tableid=178&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Roulette_5.png"
+            },
+            {
+              "id": 26,
+              "schedule": "12:00 - 04:00 GMT+0 Monday to Friday",
+              "name": "Latin Roulette",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=roulette&tableid=26&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Roulette_2.png"
+            },
+            {
+              "id": 182,
+              "schedule": "12:00 - 04:00 GMT+0 Monday to Friday",
+              "name": "Portuguese -Spanish Roulette",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=roulette&tableid=182&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Ameracan_1.png"
+            },
+            {
+              "id": 3,
+              "schedule": "24/7",
+              "name": "Baccarat 1",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=baccarat&tableid=3&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Baccarat_1.png"
+            },
+            {
+              "id": 28,
+              "schedule": "24/7",
+              "name": "Baccarat 2",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=baccarat&tableid=28&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Baccarat_2.png"
+            },
+            {
+              "id": 27,
+              "schedule": "24/7",
+              "name": "Baccarat 3",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=baccarat&tableid=27&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Baccarat_3.png"
+            },
+            {
+              "id": 16,
+              "schedule": "24/7",
+              "name": "Live Blackjack",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=blackjack&tableid=16&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Blackjack_1.png"
+            },
+            {
+              "id": 18,
+              "schedule": "24/7",
+              "name": "Turkish blackjack VIP",
+              "url": "https://tables.kasoom.com?operatorid=3004378&language=VT&application=blackjack&tableid=18&serverid=6401748",
+              "img": "https://play.fa88.tv/img/Blackjack_2.png"
+            }
+          ],
+          "vivo": {
+            "selectedGame": [
+              "BlackJack",
+              "Roulette",
+              "Baccarat",
+              "CasinoHoldem"
+            ],
+            "url_launch_game": "https://tables.kasoom.com/?application=lobby&language=VT&operatorID=3004378&serverID=6401748",
+            "url_launch_game_sample": "https://tables.kasoom.com/?application=lobby&language=VT&operatorID=3004378&serverID=6401748&token=<TOKEN>&selectedGame=&lt;SELECTED_GAME&gt;",
+            "url_launch_game_table_sample": "https://tables.kasoom.com?operatorid=3004378&language=VT&serverid=6401748&application=<APPLICATION>&tableid=<TABLE_ID>&token=<TOKEN>",
+            "url_launch_game_table": "https://tables.kasoom.com?operatorid=3004378&language=VT&serverid=6401748",
+            "applications": [
+              {
+                "application_id": "baccarat",
+                "tables": [
+                  {
+                    "name": "Vivo Baccarat",
+                    "gameid": "3"
+                  },
+                  {
+                    "name": "Classic Baccarat",
+                    "gameid": "28"
+                  },
+                  {
+                    "name": "VIP Baccarat",
+                    "gameid": "27"
+                  },
+                  {
+                    "name": "Queenco Baccarat 1",
+                    "gameid": "154"
+                  },
+                  {
+                    "name": "Queenco Baccarat 2",
+                    "gameid": "155"
+                  },
+                  {
+                    "name": "Queenco Baccarat 3",
+                    "gameid": "156"
+                  },
+                  {
+                    "name": "Queenco Baccarat 4",
+                    "gameid": "157"
+                  },
+                  {
+                    "name": "Queenco Baccarat 5",
+                    "gameid": "158"
+                  },
+                  {
+                    "name": "Burgas Baccarat 1",
+                    "gameid": "14"
+                  },
+                  {
+                    "name": "Burgas Baccarat 2",
+                    "gameid": "17"
+                  },
+                  {
+                    "name": "Burgas Baccarat 3",
+                    "gameid": "21"
+                  },
+                  {
+                    "name": "Galaxy Baccarat 1",
+                    "gameid": "160"
+                  },
+                  {
+                    "name": "Galaxy Baccarat 2",
+                    "gameid": "161"
+                  },
+                  {
+                    "name": "Galaxy Baccarat 3",
+                    "gameid": "162"
+                  },
+                  {
+                    "name": "Galaxy Baccarat 4",
+                    "gameid": "163"
+                  }
+                ]
+              },
+              {
+                "application_id": "roulette",
+                "tables": [
+                  {
+                    "name": "Classic Roulette",
+                    "gameid": "1"
+                  },
+                  {
+                    "name": "Burgas Roulette",
+                    "gameid": "13"
+                  },
+                  {
+                    "name": "Macau Roulette",
+                    "gameid": "43"
+                  },
+                  {
+                    "name": "Princess Roulette",
+                    "gameid": "233"
+                  },
+                  {
+                    "name": "Oracle 360 Roulette",
+                    "gameid": "245"
+                  },
+                  {
+                    "name": "Oracle Roulette",
+                    "gameid": "244"
+                  },
+                  {
+                    "name": "Portomaso Casi",
+                    "gameid": "183"
+                  },
+                  {
+                    "name": "Spanish Roulette",
+                    "gameid": "26"
+                  },
+                  {
+                    "name": "Auto Roulette",
+                    "gameid": "229"
+                  },
+                  {
+                    "name": "American Portuguese Roulette",
+                    "gameid": "182"
+                  },
+                  {
+                    "name": "Galaxy Roulette",
+                    "gameid": "167"
+                  }
+                ]
+              },
+              {
+                "application_id": "blackjack",
+                "tables": [
+                  {
+                    "name": "Vivo Blackjack",
+                    "gameid": "16"
+                  },
+                  {
+                    "name": "VIP Blackjack",
+                    "gameid": "18"
+                  }
+                ]
+              },
+              {
+                "application_id": "casinoholdem",
+                "tables": [
+                  {
+                    "name": "Casino Hold'em",
+                    "gameid": "256"
+                  }
+                ]
+              }
+            ],
+            "sexy": [
+              {
+                "application_id": "roulette",
+                "tables": [
+                  {
+                    "name": "Roulette 230",
+                    "gameid": "230"
+                  }
+                ]
+              },
+              {
+                "application_id": "gtm-baccarat",
+                "tables": [
+                  {
+                    "name": "Baccarat 239",
+                    "gameid": "239"
+                  },
+                  {
+                    "name": "Baccarat 240",
+                    "gameid": "240"
+                  },
+                  {
+                    "name": "Baccarat 241",
+                    "gameid": "241"
+                  },
+                  {
+                    "name": "Baccarat 242",
+                    "gameid": "242"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "hanMucRutTienAoBangNH": "10000000",
+      "isHideActiveSDT": "true",
+      "getDeviceInfo": "https://bodergatez.dsrcgoms.net/gwms/v1/get-device-info.aspx",
+      "newBrand": {
+        "active": false,
+        "name": "HIT CLUB",
+        "lp": "hit20.club",
+        "url": "https://hit20.club/",
+        "time": "25/2/2023",
+        "isShowPopupNoti": true,
+        "allowRegister": true
+      },
+      "logDeviceURL": "https://bodergatez.dsrcgoms.net/gwms/v1/collect-device.aspx",
+      "kenoSocket": "wss://wspub-keno.ggclick.net/",
+      "defauleTabPopupNap": "1",
+      "urlTime": "https://bodergatez.dsrcgoms.net/lobby/info.aspx",
+      "support_telegram_url": "https://t.me/hitclubgo88",
+      "messenger_url": "https://m.me/101493539493694"
+    }
+  ],
+  "message": "Successfully"
+}
